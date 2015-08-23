@@ -1,0 +1,76 @@
+# Site settings
+title: 潘昊
+description: 潘昊简历
+favicon: /assets/img/avatar.jpg
+baseurl:
+url: http://cv.halo9pan.cn
+rss_url: /pages/atom.xml
+
+# Build settings
+markdown: kramdown
+
+# Author settings
+author:
+  name: 潘昊
+  title: 代码工匠，数据画家，魔云散人，全栈程序员，交互设计师，智能实践者……
+  address: 北京
+  email: me@halo9pan.cn
+  link: http://halo9pan.cn
+  weibo: halo9pan
+  github: Halo9Pan
+  linkedin: Halo9Pan
+  twitter: Halo9Pan
+  gavatar: /assets/img/avatar.jpg
+  workHistory:
+    - work1:
+      company: 爱奇艺
+      location: 北京
+      title: 系统架构师
+      started: 2013
+      duration: (2013 - 至今)
+      description: 
+    - work2:
+      company: IBM, CDL
+      location: 北京
+      title: 软件工程师
+      started: 2005
+      duration: (2005 - 2013)
+      description: 
+  educationHistory:
+    - education1:
+      organization: 北京大学
+      degree: 硕士
+      major: 软件工程
+      started: 2004
+      duration: (2004 - 2007)
+      description: 
+    - education2:
+      organization: 华中科技大学
+      degree: 学士
+      major: 电气工程及其自动化
+      started: 1999
+      duration: (1999 - 2003)
+      description: 
+  languages:
+    - language1:
+      name: 中文
+      proficiency: 母语
+    - language2:
+      name: English
+      proficiency: Professional
+  programmingSkills:
+    - skill1:
+      name: Java
+      percentage: 80%
+    - skill2:
+      name: GPU: CUDA, OpenCL
+      percentage: 90%
+    - skill3:
+      name: JavaScript, HTML, CSS
+      percentage: 80%
+    - skill4:
+      name: Python
+      percentage: 70%
+    - skill5:
+      name: Ruby
+      percentage: 60%
