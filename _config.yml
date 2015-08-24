@@ -63,7 +63,7 @@ author:
       name: Java
       percentage: 80%
     - skill2:
-      name: GPU: CUDA, OpenCL
+      name: GPU - CUDA, OpenCL
       percentage: 90%
     - skill3:
       name: JavaScript, HTML, CSS
