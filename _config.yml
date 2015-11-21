@@ -15,30 +15,65 @@ author:
   title: 代码工匠，数据画家，魔云散人，全栈程序员，交互设计师，智能实践者……
   address: 北京
   email: me@halo9pan.cn
+  mail: halo9pan@hotmail.com
   link: http://halo9pan.cn
   weibo: halo9pan
   github: Halo9Pan
   linkedin: Halo9Pan
   twitter: Halo9Pan
+  facebook: Halo9Pan
   gavatar: /assets/img/avatar.jpg
-  workHistory:
+  works:
     - work1:
       company: 爱奇艺
+      department: 技术产品中心
+      section: 后台开发部
       location: 北京
       title: 系统架构师
       started: 2013
       duration: (2013 - 至今)
-      description: 
+      projects:
+        - project1:
+          name: 统一发布平台 
+          description: 统一各个终端的发布流程以及模板制作的接口，统一数据接口服务发现。
+        - project2:
+          name: 会员系统架构升级 
+          description: 在会员业务出现瓶颈后，优化会员系统架构。数据库分表分库、降低事物粒度优化性能。通过分拆服务接口，通过微服务的方式提高业务灵活性。增强系统及业务层面的监控及报警。
+        - project3:
+          name: 智能后台 
+          description: 通过机器学习简化编辑工作流程，提高自动化比例。 
+        - project4:
+          name: 页面发布系统 
+          description: 后台动态动态生成，页面内容需要调用多个内部接口，通过多线程并发调用提高性能。
     - work2:
-      company: IBM, CDL
+      company: IBM
+      department: China Development Lab (CDL)
+      section: Information Management
       location: 北京
       title: 软件工程师
       started: 2005
       duration: (2005 - 2013)
       description: 
-  educationHistory:
+      projects:
+        - project1:
+          name: IBM Data Studio
+          description: 一个基于eclipse的集成化数据库管理解决方案。
+        - project2:
+          name: IBM Smart Analytics System
+          description: IBM的数据挖掘的整体解决方案
+        - project3:
+          name: IBM PureApplication System
+          description: IBM一款专门针对事务型web和数据库应用程序而设计的平台系统，Bluemix前身。
+        - project3:
+          name: Optim Query Tuner
+          description: 一款数据库查询优化工具。
+        - project3:
+          name: Optim Performance Manager
+          description: 通过Web界面来隔离并分析典型的数据库性能问题。查看数据库运行状况的摘要。
+  educations:
     - education1:
       organization: 北京大学
+      school: 软件与微电子学院
       degree: 硕士
       major: 软件工程
       started: 2004
@@ -46,6 +81,7 @@ author:
       description: 
     - education2:
       organization: 华中科技大学
+      school: 电气与电子工程学院
       degree: 学士
       major: 电气工程及其自动化
       started: 1999
@@ -58,19 +94,44 @@ author:
     - language2:
       name: English
       proficiency: Professional
-  programmingSkills:
+  programmings:
     - skill1:
+      name: GPGPU - CUDA, OpenCL
+      percentage: 90%
+      description: 
+    - skill2:
       name: Java
       percentage: 80%
-    - skill2:
-      name: GPU - CUDA, OpenCL
-      percentage: 90%
+      description: 最早接触的实际开发语言
     - skill3:
-      name: JavaScript, HTML, CSS
+      name: JavaScript 
       percentage: 80%
+      description: 
     - skill4:
+      name: HTML, CSS
+      percentage: 70%
+      description: 
+    - skill5:
       name: Python
       percentage: 70%
-    - skill5:
-      name: Ruby
+      description: 
+    - skill6:
+      name: C/C++
       percentage: 60%
+      description: 
+    - skill7:
+      name: Ruby
+      percentage: 50%
+      description: 
+    - skill8:
+      name: Scala
+      percentage: 50%
+      description: 
+    - skill9:
+      name: Groovy
+      percentage: 40%
+      description: 
+    - skill10:
+      name: R
+      percentage: 40%
+      description: 
