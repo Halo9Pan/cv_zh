@@ -139,6 +139,9 @@ layout: default
                     </div>
                   </div>
                 {% endif %}
+                {% if development.description %}
+                  <div>{{ development.description }}</div>
+                {% endif %}
               </li>
             {% endfor %}
           </ul>

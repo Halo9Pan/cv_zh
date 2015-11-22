@@ -96,42 +96,75 @@ author:
       proficiency: Professional
   programmings:
     - skill1:
-      name: GPGPU - CUDA, OpenCL
-      percentage: 90%
-      description: 
-    - skill2:
       name: Java
       percentage: 80%
-      description: 最早接触的实际开发语言
-    - skill3:
+      description: 最早接触的实际开发语言。熟悉JVM内存模型、GC策略等，阅读过虚拟机规范。能非常熟练的使用并了解运行机制。对多线程和I/O部分做过深入研究。Jave EE 和 Spring、Hibernate等框架有丰富的使用经验并阅读过部分源代码。
+    - skill2:
       name: JavaScript 
       percentage: 80%
-      description: 
-    - skill4:
+      description: 也是较早接触的开发语言。偏向对原生JavaScript的了解，能熟练使用常用的原生JavaScript API，了解过浏览器运行机制。对流行框架停留在使用层面，少部分框架或者库阅读过代码。也有过后端Node.JS的使用经验。
+    - skill3:
       name: HTML, CSS
       percentage: 70%
-      description: 
+      description: 配合前端数据可视化，了解常见HTML标签语义，CSS选择器、定位、盒模型、动画、位移等。
+    - skill4:
+      name: GPGPU - CUDA, OpenCL
+      percentage: 90%
+      description: 熟悉GPU编程模型，常用接口以及优化策略。OpenCL比CUDA略熟悉。发表过四篇相关专利。
     - skill5:
-      name: Python
-      percentage: 70%
-      description: 
-    - skill6:
       name: C/C++
       percentage: 60%
-      description: 
+      description: 配合GPU编程使用，作为CUDA和OpenCL宿主语言，没有太深入。熟悉Linux下gcc的使用和编译过程，能写简单的makefile。也有过使用OpenCV和ffmpeg的经验。
+    - skill6:
+      name: Python
+      percentage: 70%
+      description: 主要用来写系统配置脚本和作为数据分析工具，常见API能熟练使用，细节还需要借助文档。
     - skill7:
       name: Ruby
       percentage: 50%
-      description: 
+      description: 配合Vagrant、Chef和Puppet写配置脚本。有过Rails的使用经验，用的最多的还是jekyll。
     - skill8:
       name: Scala
       percentage: 50%
-      description: 
+      description: 主要配合Spark使用，了解语法、常见API，和函数式编程模型。
     - skill9:
       name: Groovy
       percentage: 40%
-      description: 
-    - skill10:
-      name: R
+      description: 主要用于在JVM内需要动态语言的场景下，有项目使用经验，但没有继续深入了解。
+  developments:
+    - skill1:
+      name: 数据可视化
+      percentage: 90%
+      description: 长期从事相关工作。拥有管理学背景，能根据商业模型分析数据模型并决定展示重点。能以需求为基本出发点，依靠自己的技术栈，从头至尾实现数据可视化。发表过两篇相关专利。
+    - skill2:
+      name: 机器学习
+      percentage: 70%
+      description: 熟悉常见机器学习算法，实现过朴素贝叶斯、线性回归、随机森林、kNN，能使用协同过滤、关联规则、SVM等算法。小规模使用过Caffe，正在学习TensorFlow。使用过Theano、Mahout、Spark ML。发表过两篇相关专利。
+    - skill3:
+      name: 并行并发
+      percentage: 80%
+      description: 源于Java多线程，运用于GPU高性能计算。了解锁机制、函数式编程、Actor、GPU SIMD等并发、并行编程模型。发表过一篇相关专利。
+    - skill4:
+      name: Hadoop
+      percentage: 70%
+      description: 理解HDFS、编写MapReduce。配置Hadoop环境并调优参数，阅读过部分代码。实现过TeraSort。有使用HBase、Hive、Pig、Flume、Sqoop的经验
+    - skill5:
+      name: Spark
+      percentage: 60%
+      description: 理解RDD。配置Spark环境，阅读过部分代码。实现过TeraSort。常用MLlib模块，使用过Streaming模块，对SQL模块也有过接触。
+    - skill6:
+      name: Mesos
       percentage: 40%
-      description: 
+      description: 安装配置，结合Spark使用。阅读过allocator部分代码
+    - skill7:
+      name: OpenStack
+      percentage: 60%
+      description: 有小规模安装配置经验，做过Horizon的二次开发，阅读过部分代码。
+    - skill8:
+      name: Docker
+      percentage: 70%
+      description: 有安装Kubernetes经验，目前开发环境全部基于Vagrant或Docker。熟练编写Dockerfile。
+    - skill9:
+      name: 数据库
+      percentage: 70%
+      description: MySQL、PostgreSQL、MongoDB等配置及简单调优。熟悉数据库建模，能掌握中等难度的SQL语句。
