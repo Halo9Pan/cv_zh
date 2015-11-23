@@ -1,3 +1,3 @@
-# ÖĞÎÄÔÚÏß¼òÀú
+# ä¸­æ–‡åœ¨çº¿ç®€å†
 -------
-- [Fork from](https://github.com/ddbullfrog/iCard-Resume/fork)
+- [Fork](https://github.com/ddbullfrog/iCard-Resume/fork)
