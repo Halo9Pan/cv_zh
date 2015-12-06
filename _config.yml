@@ -40,7 +40,7 @@ author:
           name: 会员系统架构升级 
           description: 在会员业务出现瓶颈后，优化会员系统架构。数据库分表分库、降低事物粒度优化性能。通过分拆服务接口，通过微服务的方式提高业务灵活性。增强系统及业务层面的监控及报警。
         - project3:
-          name: 智能后台 
+          name: 智能运营 
           description: 通过机器学习简化编辑工作流程，提高自动化比例。 
         - project4:
           name: 页面发布系统 
@@ -122,7 +122,7 @@ author:
     - skill7:
       name: Ruby
       percentage: 50%
-      description: 配合Vagrant、Chef和Puppet写配置脚本。有过Rails的使用经验，用的最多的还是jekyll。
+      description: 配合Vagrant、Chef和Puppet写配置脚本。有过Rails的使用经验。
     - skill8:
       name: Scala
       percentage: 50%
@@ -147,7 +147,7 @@ author:
     - skill4:
       name: Hadoop
       percentage: 70%
-      description: 理解HDFS、编写MapReduce。配置Hadoop环境并调优参数，阅读过部分代码。实现过TeraSort。有使用HBase、Hive、Pig、Flume、Sqoop的经验
+      description: 理解HDFS、编写MapReduce。配置Hadoop环境并调优参数，阅读过部分代码。实现过TeraSort。有使用HBase、Hive、Pig、Flume、Sqoop等的经验。
     - skill5:
       name: Spark
       percentage: 60%
@@ -155,7 +155,7 @@ author:
     - skill6:
       name: Mesos
       percentage: 40%
-      description: 安装配置，结合Spark使用。阅读过allocator部分代码
+      description: 安装配置，结合Spark使用。阅读过allocator部分代码。
     - skill7:
       name: OpenStack
       percentage: 60%
@@ -167,4 +167,4 @@ author:
     - skill9:
       name: 数据库
       percentage: 70%
-      description: MySQL、PostgreSQL、MongoDB等配置及简单调优。熟悉数据库建模，能掌握中等难度的SQL语句。
+      description: 在IBM长期从事数据库相关工具的开发。MySQL、PostgreSQL、MongoDB等配置及简单调优。熟悉数据库建模，能掌握中等难度的SQL语句。
