@@ -17,8 +17,9 @@ author:
   email: me@halo9pan.cn
   mail: halo9pan@hotmail.com
   link: http://halo9pan.cn
-  weibo: halo9pan
   github: Halo9Pan
+  weibo: halo9pan
+  qq: 104349832
   linkedin: Halo9Pan
   twitter: Halo9Pan
   facebook: Halo9Pan
@@ -40,7 +41,7 @@ author:
           name: 会员系统架构升级 
           description: 在会员业务出现瓶颈后，优化会员系统架构。数据库分表分库、降低事物粒度优化性能。通过分拆服务接口，通过微服务的方式提高业务灵活性。增强系统及业务层面的监控及报警。
         - project3:
-          name: 智能运营 
+          name: 智能运营系统 
           description: 通过机器学习简化编辑工作流程，提高自动化比例。 
         - project4:
           name: 页面发布系统 
