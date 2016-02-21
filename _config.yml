@@ -12,7 +12,7 @@ markdown: kramdown
 # Author settings
 author:
   name: 潘昊
-  title: 代码工匠，数据画家，轻云散人，全栈程序员，交互设计师，智能实践者……
+  title: 数据画家，闲云匠人，全栈程序员，智能实践者……
   address: 北京
   email: me@halo9pan.cn
   mail: halo9pan@hotmail.com
@@ -42,7 +42,7 @@ author:
           description: 在会员业务出现瓶颈后，优化会员系统架构。数据库分表分库、降低事物粒度优化性能。通过分拆服务接口，通过微服务的方式提高业务灵活性。增强系统及业务层面的监控及报警。
         - project3:
           name: 智能运营系统 
-          description: 通过机器学习简化编辑工作流程，提高自动化比例。 
+          description: 通过机器学习进行自动化分类、生成推荐标签。简化编辑工作流程，提高生成效率。 
         - project4:
           name: 页面发布系统 
           description: 后台动态动态生成，页面内容需要调用多个内部接口，通过多线程并发调用提高性能。
@@ -115,7 +115,7 @@ author:
     - skill5:
       name: C/C++
       percentage: 60%
-      description: 配合GPU编程使用，作为CUDA和OpenCL宿主语言，没有太深入。熟悉Linux下gcc的使用和编译过程，能写简单的makefile。也有过使用OpenCV和ffmpeg的经验。
+      description: 配合GPU编程使用，作为CUDA和OpenCL宿主语言，没有太深入。熟悉Linux下gcc的使用和编译过程，能写简单的makefile和CMake。也有过使用OpenCV和ffmpeg的经验。
     - skill6:
       name: Python
       percentage: 70%
