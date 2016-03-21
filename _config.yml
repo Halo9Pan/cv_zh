@@ -30,7 +30,7 @@ author:
       department: 技术产品中心
       section: 后台开发部
       location: 北京
-      title: 系统架构师
+      title: 系统架构师、数据架构师、技术委员会委员
       started: 2013
       duration: (2013 - 至今)
       projects:
@@ -169,3 +169,39 @@ author:
       name: 数据库
       percentage: 70%
       description: 在IBM长期从事数据库相关工具的开发。MySQL、PostgreSQL、MongoDB等配置及简单调优。熟悉数据库建模，能掌握中等难度的SQL语句。
+  patents:
+    - patent1:
+      name: 数据处理方法及装置
+      office: CN
+      number: 201410415527
+      publication: CN104199790A
+    - patent2:
+      name: 一种聚合页面中数据模块的方法及装置
+      office: CN
+      number: 201510541196
+      publication: CN105159881A
+    - patent3:
+      name: 一种基于图像的用户动作标识区域确定方法及装置
+      office: CN
+      number: 201510146258
+      publication: CN104700096A
+    - patent4:
+      name: 一种终端数据展现方法和系统
+      office: CN
+      number: 201510149300
+      publication: CN104793933A
+    - patent5:
+      name: 一种浮点数处理方法及装置
+      office: CN
+      number: 201510629933
+      publication: CN105224283A
+    - patent6:
+      name: 一种浮点数处理方法及装置
+      office: CN
+      number: 201510629934
+      publication: CN105224284A
+    - patent7:
+      name: 多视角视频采集系统
+      office: CN
+      number: 201510727225
+      publication: CN105407297A
