@@ -139,8 +139,8 @@ author:
       description: 长期从事相关工作。拥有管理学背景，能根据商业模型分析数据模型并决定展示重点。能以需求为基本出发点，依靠自己的技术栈，从头至尾实现数据可视化。发表过两篇相关专利。
     - skill2:
       name: 机器学习
-      percentage: 70%
-      description: 熟悉常见机器学习算法，实现过朴素贝叶斯、线性回归、随机森林、kNN，能使用协同过滤、关联规则、SVM等算法。小规模使用过Caffe，正在学习TensorFlow。使用过Theano、Mahout、Spark ML。发表过两篇相关专利。
+      percentage: 80%
+      description: 熟悉常见机器学习算法，写代码实现过朴素贝叶斯、线性回归、随机森林、kNN等算法，能使用协同过滤、关联规则、SVM等算法。能根据已有数学模型做代码实现和优化。能较熟练的使用Theano、Mahout、Spark ML。小规模使用过Caffe，正在学习TensorFlow。发表过两篇相关专利。
     - skill3:
       name: 并行并发
       percentage: 80%
@@ -151,8 +151,8 @@ author:
       description: 理解HDFS、编写MapReduce。配置Hadoop环境并调优参数，阅读过部分代码。实现过TeraSort。有使用HBase、Hive、Pig、Flume、Sqoop等的经验。
     - skill5:
       name: Spark
-      percentage: 60%
-      description: 理解RDD。配置Spark环境，阅读过部分代码。实现过TeraSort。常用MLlib模块，使用过Streaming模块，对SQL模块也有过接触。
+      percentage: 70%
+      description: 理解RDD。配置Spark环境，阅读过部分代码。实现过TeraSort。常用MLlib模块，使用过Streaming模块。
     - skill6:
       name: Mesos
       percentage: 40%
