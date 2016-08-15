@@ -30,7 +30,7 @@ author:
       department: 技术产品中心
       section: 后台开发部
       location: 北京
-      title: 架构师、数据研究员、技术委员会委员
+      title: 架构师、研究员、技术委员会委员
       started: 2013
       duration: (2013 - 至今)
       projects:
@@ -42,7 +42,7 @@ author:
           description: 在会员业务出现瓶颈后，优化会员系统架构。数据库分表分库、降低事物粒度优化性能。通过分拆服务接口，通过微服务的方式提高业务灵活性。增强系统及业务层面的监控及报警。
         - project3:
           name: 智能运营系统 
-          description: 通过机器学习进行自动化分类、生成推荐标签。简化编辑工作流程，提高生成效率。 
+          description: 通过机器学习进行视频自动化分类、生成推荐标签、用户推荐、标签聚合。简化编辑工作流程，提高生成效率。对客服系统的自动应答；文学系统的搜索、排重、评分；社交系统的自动对话等提供支持。 
         - project4:
           name: 页面发布系统 
           description: 后台动态动态生成，页面内容需要调用多个内部接口，通过多线程并发调用提高性能。
@@ -118,20 +118,12 @@ author:
       description: 配合GPU编程使用，作为CUDA和OpenCL宿主语言，没有太深入。熟悉Linux下gcc的使用和编译过程，能写简单的makefile和CMake。也有过使用OpenCV和ffmpeg的经验。
     - skill6:
       name: Python
-      percentage: 70%
+      percentage: 80%
       description: 主要用来写系统配置脚本和作为数据分析工具，常见API能熟练使用，细节还需要借助文档。
     - skill7:
-      name: Ruby
-      percentage: 50%
-      description: 配合Vagrant、Chef和Puppet写配置脚本。有过Rails的使用经验。
-    - skill8:
       name: Scala
       percentage: 50%
       description: 主要配合Spark使用，了解语法、常见API，和函数式编程模型。
-    - skill9:
-      name: Groovy
-      percentage: 40%
-      description: 主要用于在JVM内需要动态语言的场景下，有项目使用经验，但没有继续深入了解。
   developments:
     - skill1:
       name: 数据可视化
@@ -140,7 +132,7 @@ author:
     - skill2:
       name: 机器学习
       percentage: 80%
-      description: 熟悉常见机器学习算法，写代码实现过朴素贝叶斯、线性回归、随机森林、kNN等算法，能使用协同过滤、关联规则、SVM等算法。能根据已有数学模型做代码实现和优化。能较熟练的使用Theano、Mahout、Spark ML。小规模使用过Caffe，正在学习TensorFlow。发表过两篇相关专利。
+      description: 熟悉常见机器学习算法，写代码实现过朴素贝叶斯、线性回归、随机森林、kNN等算法，能使用协同过滤、关联规则、SVM等算法。能根据已有数学模型做代码实现和优化。能较熟练的使用Theano、Mahout、Spark ML。小规模使用过Caffe，正在学习TensorFlow，了解深度学习常见模型和优化算法。发表过两篇相关专利。
     - skill3:
       name: 并行并发
       percentage: 80%
